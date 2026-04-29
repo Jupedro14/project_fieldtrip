@@ -23,5 +23,6 @@
         $controller = new showController();
         $controller->show();
     ?>
+    <h1>ayam</h1>
 </body>
 </html>
