@@ -24,5 +24,6 @@
         $controller->show();
     ?>
     <h1>ayam</h1>
+    <h2>test gila</h2>
 </body>
 </html>
